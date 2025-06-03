@@ -1,0 +1,27 @@
+# 운영체제 관련
+.DS_Store
+Thumbs.db
+
+# IDE/에디터 관련
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 의존성 폴더
+node_modules/
+bower_components/
+
+# 빌드 결과물
+dist/
+build/
+*.log
+
+# 환경설정 파일
+.env
+.env.local
+config.json
+
+# 임시 파일
+*.tmp
+*.temp
