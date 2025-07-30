@@ -25,3 +25,7 @@ config.json
 # 임시 파일
 *.tmp
 *.temp
+ 
+# Python 가상환경
+venv/
+.venv/
